@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shanif 👋
 
-<!--
-**shaniiiiif/shaniiiiif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Full-Stack Developer
 
-Here are some ideas to get you started:
+I am learning and building projects with Python, web development, data analytics, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- Django
+- Flask
+- FastAPI
+- SQL
+- Git & GitHub
+- Full-Stack Web Development
+
+## 🛠️ Projects
+
+- 📊 DataVortex — Data Analytics Platform
+- 🛒 Kuttikada — E-commerce Website
+- 🛡️ CyberShield X — Defensive Cybersecurity Platform
+
+## 💻 Tech Stack
+
+Python • Django • Flask • FastAPI • SQL • Git • GitHub
+
+## 🎯 Goal
+
+To become a professional Python Full-Stack Developer and build useful real-world software.
+
+---
+
+📫 GitHub: https://github.com/shaniiiif
