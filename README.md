@@ -1,4 +1,4 @@
-# Hi, I'm Shanif 👋
+# Hi, I'm Shanif P 👋
 
 ### 🐍 Python Full-Stack Developer
 
